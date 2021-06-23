@@ -54,6 +54,8 @@
 
 ---
 
+## [완전 자동화 ML서빙 파이프라인](https://github.com/cheat-tos/serving)
+
 ## [AI기반 폴리머 물성 예측 알고리즘을 통한 소재 개발서비스 플랫폼](https://github.com/wjdgns7712/Gyes)
 
 ## [GPS를 이용한 실시간 위치공유 앱](https://github.com/wjdgns7712/seeya)
