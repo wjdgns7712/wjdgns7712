@@ -19,6 +19,8 @@
 
 - **Github** | [**https://github.com/wjdgns7712**](https://github.com/wjdgns7712)
 - **Gitgist** | [**https://gist.github.com/wjdgns7712**](https://gist.github.com/wjdgns7712)
+- **Blog** | [**https://chicken-man.tistory.com/**](https://chicken-man.tistory.com/)
+- **BOJ** | [**https://www.acmicpc.net/user/wjdgns7712**](https://www.acmicpc.net/user/wjdgns7712)
 - **Programmers** | [**https://programmers.co.kr/resumes/229367**](https://programmers.co.kr/resumes/229367)
 - **Hackerrank** | [**https://www.hackerrank.com/wjdgns7712?hr_r=1**](https://www.hackerrank.com/wjdgns7712?hr_r=1)
 
